@@ -8,7 +8,9 @@ __I'm a Pentester, passionate about cybersecurity, hacking, and CTF challenges._
 
 <br>
 
-<a href="https://www.instagram.com/0xsolo/"><img width="45px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" /></a> &ensp; <a href="https://twitter.com/0xS0l0"><img width="45px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png"></a> &ensp; <a href="https://in.linkedin.com/in/0x-solo-24408a20b"><img width="45px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png"></a> &ensp; <a href="mailto:0xS0l0@protonmail.ch"><img width="45px" src="https://cdn0.iconfinder.com/data/icons/social-media-circle-6/1024/mail-128.png"></a>
+<a href="https://www.instagram.com/0xsolo/"><img width="45px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" /></a> &emsp; &emsp; <a href="https://twitter.com/0xS0l0"><img width="45px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png"></a> 
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/0xsolo.png">
           
  <br>
  
