@@ -30,7 +30,7 @@ _My Skills:_
  
  <br>
 
- ![image](https://user-images.githubusercontent.com/53935554/127688856-aa88208b-8b2e-41a9-942f-e06ad9f569f7.png) &emsp; <img src="http://www.hackthebox.eu/badge/image/309434">
+ ![0xsolo](https://user-images.githubusercontent.com/53935554/134203864-96d4d759-6462-4d1d-9a8b-95c4b3b7fb07.png) &emsp; <img src="http://www.hackthebox.eu/badge/image/309434">
 
  <br>
 
