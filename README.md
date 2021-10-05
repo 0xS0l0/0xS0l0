@@ -4,8 +4,7 @@
 
 # __Hi there 👋, I'm solo__
 
-__I'm a Pentester, passionate about cybersecurity, hacking, and CTF challenges.__
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%233AFFB8&lines=Pentester;CS+Student;CTF+Player;I+use+Linux+btw!)](https://git.io/typing-svg)
 
 <br>
 
@@ -41,8 +40,8 @@ _My Skills:_
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xS0l0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
+[![solo's github activity graph](https://activity-graph.herokuapp.com/graph?username=0xS0l0&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="0xsolo's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=0xS0l0&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
 
