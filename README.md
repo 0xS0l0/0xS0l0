@@ -17,7 +17,7 @@
 _My Skills:_
 
           -Linux
-          -Penatration testing
+          -Penetration testing
           -Shell Scripting
           -c,c++
           -Python
