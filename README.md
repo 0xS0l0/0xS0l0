@@ -4,7 +4,7 @@
 
 # __Hi there 👋, I'm solo__
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%233AFFB8&lines=Pentester;CS+Student;CTF+Player;I+use+Linux+btw!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%233AFFB8&lines=Pentester;Student;CTF+Player;I+use+Linux+btw!)](https://git.io/typing-svg)
 
 <br>
 
