@@ -39,9 +39,9 @@ _My Skills:_
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xS0l0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<!--
 [![solo's github activity graph](https://activity-graph.herokuapp.com/graph?username=0xS0l0&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+-->
 
 
 
