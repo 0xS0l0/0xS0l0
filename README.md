@@ -44,5 +44,5 @@ _My Skills:_
 -->
 
 
-
+[![@0xsolo's Holopin board](https://holopin.me/0xsolo)](https://holopin.io/@0xsolo)
 
