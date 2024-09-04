@@ -25,6 +25,8 @@ _My Skills:_
           -Php
           -Javascript
  <br>
+
+ [![An image of @0xsolo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/0xsolo)](https://holopin.io/@0xsolo)
  
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=0xS0l0)
  
