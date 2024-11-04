@@ -19,6 +19,8 @@ _My Skills:_
 
           -Linux
           -Penetration testing
+          -Burpsuite 
+          -Owsap 
           -Shell Scripting
           -c,c++
           -Python
