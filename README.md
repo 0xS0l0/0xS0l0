@@ -38,6 +38,10 @@ _My Skills:_
   <img src="https://tryhackme-badges.s3.amazonaws.com/0xsolo.png" alt="TryHackMe"> &emsp; <img src="http://www.hackthebox.eu/badge/image/309434">
 
  <br>
+ 
+[![Check out 0xS0l0's profile on stardev.io](https://stardev.io/developers/0xS0l0/badge/languages/global.svg)](https://stardev.io/developers/0xS0l0)
+
+ <br>
 
 ![solo's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xS0l0&show_icons=true&theme=tokyonight)                                             
 
@@ -48,6 +52,8 @@ _My Skills:_
 <!--
 [![solo's github activity graph](https://activity-graph.herokuapp.com/graph?username=0xS0l0&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 -->
+
+
 
 
 
