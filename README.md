@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%233AFFB8&lines=Pentester;Cybersecurity+Enthusiast;CTF+Player;Linux+User)](https://git.io/typing-svg)
 
 <br>
-<a href="https://www.instagram.com/0xsolo/" target="_blank"><img width="45px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" /></a> &emsp;
+<!-- <a href="https://www.instagram.com/0xsolo/" target="_blank"><img width="45px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" /></a> &emsp; -->
 <a href="https://in.linkedin.com/in/0xsolo" terget="_blank"><img width="45px" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_linkedin-512.png"/></a> &emsp;
 <a href="https://twitter.com/0xS0l0" target="_blank"><img width="45px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png"></a> &emsp; <a href="https://www.tryhackme.com/p/0xsolo" target="_blank"><img width="85px" src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg"></a> &emsp; <a href="https://app.hackthebox.eu/profile/309434" target="_blank"><img width="185x" src="https://app.hackthebox.eu/images/logos/logo-htb.svg"></a>
           
