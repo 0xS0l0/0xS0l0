@@ -4,7 +4,7 @@
 
 # __Hi there 👋, I'm solo__
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%233AFFB8&lines=Pentester;Cybersecurity+Enthusiast;CTF+Player;Linux+User)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%233AFFB8&lines=CEH;Pentester;Cybersecurity+Enthusiast;CTF+Player;Linux+User)](https://git.io/typing-svg)
 
 <br>
 <!-- <a href="https://www.instagram.com/0xsolo/" target="_blank"><img width="45px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" /></a> &emsp; -->
